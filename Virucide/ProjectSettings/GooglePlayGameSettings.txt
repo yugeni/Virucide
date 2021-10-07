@@ -1,0 +1,10 @@
+lastUpgrade=00932
+proj.pluginVersion=0.9.32
+proj.AppId=686035832060
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e686035832060%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.EugeneTanJianpeng.Virucide%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_beat_level_10%22%3eCgkI_Jmw1_sTEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_beat_level_20%22%3eCgkI_Jmw1_sTEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_beat_level_30%22%3eCgkI_Jmw1_sTEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_beat_level_40%22%3eCgkI_Jmw1_sTEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_beat_level_50%22%3eCgkI_Jmw1_sTEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_infection%22%3eCgkI_Jmw1_sTEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_perfect_aim%22%3eCgkI_Jmw1_sTEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_anemia%22%3eCgkI_Jmw1_sTEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_spike_fall%22%3eCgkI_Jmw1_sTEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_endless_explosions%22%3eCgkI_Jmw1_sTEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_portal_pickle%22%3eCgkI_Jmw1_sTEAIQCg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a%0d%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
+and.BundleId=com.EugeneTanJianpeng.Virucide
